@@ -1,0 +1,6 @@
+ping3
+psutil
+requests
+dnspython
+paramiko
+scapy
